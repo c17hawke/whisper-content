@@ -131,3 +131,7 @@ dmypy.json
 # IDE settings directories
 .vscode/*
 .idea/*
+ffmpeg-master-latest-win64-gpl/*
+*.wav
+*.mp4
+*.oga
